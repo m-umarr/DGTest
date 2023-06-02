@@ -1,0 +1,1 @@
+export const Main_URL='https://api.integration.psychplus.dev/';
